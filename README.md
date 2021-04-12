@@ -11,7 +11,7 @@ This app builds on the SleepQualityTracker you developed in Lesson 6.  In this l
 ![Screenshot1](screenshots/sleep_tracker_recycler_home.png)
 ![Screenshot2](screenshots/sleep_tracker_recycler_detail.png)
 
-## How to use this repo while taking the course.
+## How to use this repo while taking the course
 
 
 Each code repository in this class has a chain of commits that looks like this:
@@ -104,4 +104,3 @@ You can also compare your code locally with the branch of the following step.
 Notice any issues with a repository? Please file a github issue in the repository.
 
 
-"# SleepTrackerRecycler" 
